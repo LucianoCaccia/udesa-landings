@@ -1,0 +1,1285 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"ho",
+				"hover"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"if",
+				"ife	if … else"
+			],
+			[
+				"t",
+				"text-bottom"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"di",
+				"div"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"o",
+				"opacity"
+			],
+			[
+				"bac",
+				"background-repeat"
+			],
+			[
+				"lis",
+				"list_classes"
+			],
+			[
+				"class",
+				"classes"
+			],
+			[
+				"body",
+				"body_class"
+			],
+			[
+				"bo",
+				"body_class"
+			],
+			[
+				"nav",
+				"nav-solid"
+			],
+			[
+				"im",
+				"img_url"
+			],
+			[
+				"fo",
+				"focus"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"n",
+				"transparent"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"padding-t",
+				"padding-top"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"Ba",
+				"background-color"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"hi",
+				"hidden-640"
+			],
+			[
+				"ma",
+				"max-width"
+			],
+			[
+				"pro",
+				"project-bar"
+			],
+			[
+				"s",
+				"script	Tag"
+			],
+			[
+				"no",
+				"normally"
+			],
+			[
+				"mai",
+				"main-list"
+			],
+			[
+				"paddi",
+				"padding-left"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"foo",
+				"Footer"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"que",
+				"query_parts"
+			],
+			[
+				"mi",
+				"min-width"
+			],
+			[
+				"th",
+				"thumb_url"
+			],
+			[
+				"b",
+				"bg_img"
+			],
+			[
+				"DI",
+				"div	Tag"
+			],
+			[
+				"con",
+				"content_type"
+			],
+			[
+				"h",
+				"hr	Tag"
+			],
+			[
+				"globa",
+				"global"
+			],
+			[
+				"in",
+				"in_array"
+			],
+			[
+				"menu",
+				"menu_item"
+			],
+			[
+				"us",
+				"user"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"st",
+				"strArr"
+			],
+			[
+				"user",
+				"user_fields"
+			],
+			[
+				"new",
+				"newDate"
+			],
+			[
+				"ffff",
+				"FFFFFF"
+			],
+			[
+				"na",
+				"nav-msg"
+			],
+			[
+				"Cle",
+				"ClearSans"
+			],
+			[
+				"card",
+				"card-md1"
+			],
+			[
+				"car",
+				"card-2"
+			],
+			[
+				"ca",
+				"card-2"
+			],
+			[
+				"lan",
+				"lang_name"
+			],
+			[
+				"wh",
+				"width"
+			],
+			[
+				"pat",
+				"path_alias"
+			],
+			[
+				"progress",
+				"progress-bar"
+			],
+			[
+				"ro",
+				"row"
+			],
+			[
+				"col",
+				"col-sm-2"
+			],
+			[
+				"re",
+				"reason"
+			],
+			[
+				"p",
+				"points"
+			],
+			[
+				"su",
+				"submit"
+			],
+			[
+				"array_un",
+				"array_unshift"
+			],
+			[
+				"else",
+				"elseif	elseif …"
+			],
+			[
+				"curre",
+				"current_curso_carga"
+			],
+			[
+				"curr",
+				"current_curso_carga"
+			],
+			[
+				"form",
+				"form_id"
+			],
+			[
+				"ff",
+				"ffffff"
+			],
+			[
+				"base",
+				"base_path"
+			],
+			[
+				"arg",
+				"arg1"
+			],
+			[
+				"ar",
+				"arg"
+			],
+			[
+				"_",
+				"_field_data"
+			],
+			[
+				"co",
+				"count"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"for",
+				"form"
+			],
+			[
+				"drupal",
+				"drupal_goto"
+			],
+			[
+				"ex",
+				"exit"
+			],
+			[
+				"dial",
+				"dialogoit_resellers_pepe"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"end",
+				"endif"
+			],
+			[
+				"img",
+				"img_url"
+			],
+			[
+				"url",
+				"url_base"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"la",
+				"lang"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"lang",
+				"language"
+			],
+			[
+				"lo",
+				"Loading"
+			],
+			[
+				"redi",
+				"redirect"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"en",
+				"endif"
+			],
+			[
+				"modular",
+				"modular-banner"
+			],
+			[
+				"import",
+				"important"
+			],
+			[
+				"page",
+				"page__title"
+			],
+			[
+				"region",
+				"region-social"
+			],
+			[
+				"paddin",
+				"padding-right"
+			],
+			[
+				"e",
+				"echo	echo \"…\""
+			],
+			[
+				"field",
+				"field_field_image"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"hover",
+				"hover"
+			],
+			[
+				"blo",
+				"block"
+			],
+			[
+				"pag",
+				"page-header"
+			],
+			[
+				"border-b",
+				"border-bottom"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"block",
+				"block-title"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"sidebar",
+				"sidebar_first"
+			],
+			[
+				"admin",
+				"admin-clara-node-form"
+			],
+			[
+				"admi",
+				"admin-clara-node-form"
+			],
+			[
+				"active",
+				"active-trail"
+			],
+			[
+				"page-cl",
+				"page-admin-clara"
+			],
+			[
+				"fie",
+				"fieldset"
+			],
+			[
+				"colo",
+				"color"
+			],
+			[
+				"view",
+				"views-row"
+			],
+			[
+				"lin",
+				"link-flecha"
+			],
+			[
+				"pae",
+				"page-title"
+			],
+			[
+				"view-ro",
+				"views-row"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 107.0,
+		"selected_items":
+		[
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"git ",
+				"Git: Status"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git push ",
+				"Git: Push"
+			],
+			[
+				"",
+				"Git: Add..."
+			],
+			[
+				"git ad",
+				"Git: Add..."
+			],
+			[
+				"git commi",
+				"Git: Commit"
+			],
+			[
+				"git pu",
+				"Git: Push"
+			],
+			[
+				"GIT PUSH",
+				"Git: Push"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"gitcom",
+				"Git: Commit"
+			],
+			[
+				"git pu ",
+				"Git: Push"
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"gitad",
+				"Git: Add..."
+			],
+			[
+				"git",
+				"Git: Commit history"
+			],
+			[
+				"git rese",
+				"Git: Reset (unstage) All"
+			],
+			[
+				"git res",
+				"Git: Reset (hard) HEAD"
+			],
+			[
+				"git re",
+				"Git: Reset (hard) HEAD"
+			],
+			[
+				"git che",
+				"Git: Checkout Current File"
+			],
+			[
+				"git b",
+				"Git: Change Branch"
+			],
+			[
+				"git m",
+				"Git: Merge Branch"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"enpa",
+				"Package Control: Enable Package"
+			],
+			[
+				"diff",
+				"Sublimerge: View Diff"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git add ",
+				"Git: Add Current File"
+			],
+			[
+				"git n",
+				"Git: New Branch"
+			],
+			[
+				"git new",
+				"Git: New Branch"
+			],
+			[
+				"git chec",
+				"Git: Checkout Current File"
+			],
+			[
+				"git cha",
+				"Git: Change Branch"
+			],
+			[
+				"git mer",
+				"Git: Merge Branch"
+			],
+			[
+				"git change",
+				"Git: Change Branch"
+			],
+			[
+				"git me",
+				"Git: Merge Branch"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"git pull c",
+				"Git: Pull Current Branch"
+			],
+			[
+				"git diff",
+				"Git: Diff Current File"
+			],
+			[
+				"git pull",
+				"Git: Pull Current Branch"
+			],
+			[
+				"git check",
+				"Git: Checkout Current File"
+			],
+			[
+				"git chan",
+				"Git: Change Branch"
+			],
+			[
+				"git log",
+				"Git: Log All"
+			],
+			[
+				"git reset",
+				"Git: Reset (hard) HEAD"
+			],
+			[
+				"git new ",
+				"Git: New Branch"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"user ",
+				"Preferences: Settings - User"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/luciano/Sites/local.pfs/src/wp-content/themes/wordpress-bootstrap/style.css",
+		"/Users/luciano/Sites/local.pfs/src/wp-content/themes/wordpress-bootstrap/taxonomy-project_archive_cat.php",
+		"/Users/luciano/Downloads/Torrents/Finished/Mad Max Fury Road 2015 1080p WEB-DL x264 AC3-JYK/Mad Max Fury Road 2015 1080p WEB-DL x264 AC3-JYK.srt",
+		"/Users/luciano/Sites/local.pfs/src/wp-content/themes/wordpress-bootstrap/archive.php",
+		"/Users/luciano/Sites/local.pfs/src/wp-content/themes/wordpress-bootstrap/sidebar-sidebar3.php",
+		"/Users/luciano/Sites/local.pfs/src/wp-content/themes/wordpress-bootstrap/single-partners.php",
+		"/Users/luciano/Sites/local.pfs/src/wp-content/themes/wordpress-bootstrap/sidebar.php",
+		"/Users/luciano/Sites/local.pfs/src/wp-content/themes/wordpress-bootstrap/taxonomy-awards_cat.php",
+		"/Users/luciano/Sites/local.pfs/src/wp-content/themes/wordpress-bootstrap/taxonomy-project_cat.php",
+		"/Users/luciano/Sites/local.pfs/src/wp-content/themes/wordpress-bootstrap/single-project.php",
+		"/Users/luciano/Sites/local.pfs/src/wp-content/plugins/pfs-cst-content-type/pfs-cst-content-type.php",
+		"/Users/luciano/Sites/local.pfs/src/wp-content/themes/wordpress-bootstrap/header.php",
+		"/Users/luciano/Sites/local.pfs/src/wp-content/themes/wordpress-bootstrap/index.php",
+		"/Users/luciano/Sites/local.pfs/src/wp-content/themes/wordpress-bootstrap/archive-partners.php",
+		"/Users/luciano/Sites/local.pfs/src/wp-content/themes/wordpress-bootstrap/footer.php",
+		"/Users/luciano/Sites/local.pfs/src/wp-content/plugins/imagefx/imagefx.php",
+		"/Users/luciano/Sites/local.pfs/src/wp-content/themes/wordpress-bootstrap/functions.php",
+		"/Users/luciano/Sites/local.pfs/src/wp-content/themes/wordpress-bootstrap/archive-project.php",
+		"/Users/luciano/Sites/local.pfs/src/wp-content/themes/wordpress-bootstrap/img-script.js",
+		"/Users/luciano/Sites/local.pfs/src/wp-content/themes/wordpress-bootstrap/search.php",
+		"/Users/luciano/Sites/local.pfs/src/wp-content/themes/wordpress-bootstrap/single.php",
+		"/Users/luciano/Sites/local.pfs/src/wp-content/themes/wordpress-bootstrap/sidebar-sidebar2.php",
+		"/Users/luciano/Downloads/Torrents/Finished/Cosmopolis.2012.1080p.BluRay.x264.anoXmous/Cosmopolis.2012.1080p.BluRay.x264.anoXmous_.srt",
+		"/Users/luciano/Sites/local.pfs/src/wp-content/themes/wordpress-bootstrap/page-homepage.php",
+		"/Users/luciano/Sites/local.pfs/src/wp-content/themes/wordpress-bootstrap/header.php.ori",
+		"/Users/luciano/Sites/local.pfs/src/wp-content/themes/wordpress-bootstrap/page-left-sidebar.php",
+		"/Users/luciano/Sites/local.pfs/src/wp-content/themes/wordpress-bootstrap/single-project_archive.php",
+		"/Users/luciano/Sites/local.pfs/src/wp-content/themes/wordpress-bootstrap/page-contact.php",
+		"/Users/luciano/Sites/local.pfs/src/wp-content/themes/wordpress-bootstrap/searchform.php",
+		"/Users/luciano/Sites/local.pfs/src/wp-settings.php",
+		"/Users/luciano/Sites/local.pfs/src/wp-admin/includes/class-wp-media-list-table.php",
+		"/Users/luciano/Sites/local.pfs/src/wp-content/plugins/floating-social-bar/floating-social-bar.php",
+		"/Users/luciano/Sites/local.pfs/src/wp-content/plugins/floating-social-bar/class-floating-social-bar.php",
+		"/Users/luciano/Sites/local.pfs/tmp/wordpress-bootstrap-master/functions.php",
+		"/Users/luciano/Sites/local.pfs/src/wp-content/themes/wordpress-bootstrap/comments.php",
+		"/Users/luciano/Sites/local.pfs/src/wp-content/themes/wordpress-bootstrap/single-partner.php",
+		"/Users/luciano/Sites/local.pfs/src/wp-content/themes/wordpress-bootstrap/archive-partner.php",
+		"/Users/luciano/Sites/local.pfs/src/wp-content/themes/wordpress-bootstrap/single-people.php",
+		"/Users/luciano/Sites/local.pfs/src/wp-content/themes/wordpress-bootstrap/archive-people.php",
+		"/Users/luciano/Sites/local.pfs/src/wp-content/themes/wordpress-bootstrap-master/page-left-sidebar.php",
+		"/Users/luciano/Sites/local.pfs/src/wp-content/themes/wordpress-bootstrap-master/sidebar-sidebar3.php",
+		"/Users/luciano/Sites/local.pfs/src/wp-content/themes/wordpress-bootstrap-master/archive.php",
+		"/Users/luciano/Sites/local.pfs/src/wp-content/themes/wordpress-bootstrap-master/taxonomy-awards_cat.php",
+		"/Users/luciano/Sites/local.pfs/src/wp-content/themes/wordpress-bootstrap-master/sidebar.php",
+		"/Users/luciano/Sites/local.pfs/src/wp-content/themes/wordpress-bootstrap-master/index.php",
+		"/Users/luciano/Sites/local.pfs/src/wp-content/themes/wordpress-bootstrap-master/style.css",
+		"/Users/luciano/Sites/local.pfs/src/wp-content/themes/wordpress-bootstrap-master/taxonomy-project_cat.php",
+		"/Users/luciano/Sites/local.pfs/src/wp-content/themes/wordpress-bootstrap-master/header.php",
+		"/Users/luciano/Sites/local.pfs/src/wp-content/themes/wordpress-bootstrap-master/functions.php",
+		"/Users/luciano/Sites/local.pfs/src/wp-content/themes/wordpress-bootstrap-master/single.php",
+		"/Users/luciano/Sites/local.pfs/src/wp-content/themes/wordpress-bootstrap-master/comments.php",
+		"/Users/luciano/Sites/local.pfs/src/wp-content/themes/wordpress-bootstrap-master/page-contact.php",
+		"/Users/luciano/Sites/local.pfs/src/wp-content/themes/wordpress-bootstrap-master/taxonomy-project_archive_cat.php",
+		"/Users/luciano/Sites/local.pfs/src/wp-content/themes/wordpress-bootstrap-master/single-project_archive.php",
+		"/Users/luciano/Sites/local.pfs/src/wp-content/themes/wordpress-bootstrap-master/single-project.php",
+		"/Users/luciano/Sites/local.pfs/src/wp-content/themes/wordpress-bootstrap-master/archive-project.php",
+		"/Users/luciano/Sites/local.pfs/src/wp-content/themes/wordpress-bootstrap-master/page-homepage.php",
+		"/Users/luciano/Sites/local.pfs/etc/slider-project.php",
+		"/Users/luciano/Sites/local.pfs/src/wp-content/themes/wordpress-bootstrap-master/header-project.php",
+		"/Users/luciano/Sites/local.pfs/src/wp-content/plugins/dvk-social-sharing/readme.txt",
+		"/Users/luciano/Sites/local.pfs/src/wp-content/themes/wordpress-bootstrap-master/page.php",
+		"/Users/luciano/Sites/local.pfs/src/wp-content/themes/wordpress-bootstrap-master/page-full-width.php",
+		"/Users/luciano/Sites/local.pfs/src/wp-content/themes/wordpress-bootstrap-master/footer.php",
+		"/Users/luciano/Sites/local.pfs/src/wp-content/themes/wordpress-bootstrap-master/archive-award.php",
+		"/Users/luciano/Sites/local.pfs/src/wp-content/themes/wordpress-bootstrap-master/page-projects-right-sidebar.php",
+		"/Users/luciano/Sites/local.pfs/src/wp-content/themes/wordpress-bootstrap-master/page-aboutus-full-width.php",
+		"/Users/luciano/Sites/local.pfs/src/wp-content/themes/wordpress-bootstrap-master/archive-post.php",
+		"/Users/luciano/Sites/local.pfs/src/index.php",
+		"/Users/luciano/Sites/local.pfs/src/wp-content/themes/wordpress-bootstrap-master/archive.php.ori",
+		"/Users/luciano/Sites/local.pfs/src/.htaccess",
+		"/Users/luciano/Sites/local.pfs/src/wp-content/themes/wordpress-bootstrap-master/page-awards-right-sidebar.php",
+		"/Users/luciano/Sites/local.pfs/src/wp-content/themes/wordpress-bootstrap-master/page-right-sidebar.php",
+		"/Users/luciano/Sites/local.pfs/src/wp-includes/query.php",
+		"/Users/luciano/Sites/local.pfs/src/wp-includes/functions.php",
+		"/Users/luciano/Sites/local.pfs/src/wp-content/themes/wordpress-bootstrap-master/award-archive.php",
+		"/Users/luciano/Sites/local.pfs/src/wp-content/themes/wordpress-bootstrap-master/page-news-right-sidebar.php",
+		"/Users/luciano/Sites/local.pfs/src/wp-content/themes/wordpress-bootstrap-master/sidebar-sidebar2.php",
+		"/Users/luciano/Sites/local.pfs/src/wp-content/themes/wordpress-bootstrap-master/README.md",
+		"/Users/luciano/Sites/local.dialogoit/src/sites/all/modules/custom/dti_forms/inc/terminos.es.html",
+		"/Users/luciano/Sites/local.dialogoit/src/sites/all/modules/custom/dti_forms/dti_forms.module",
+		"/Users/luciano/Sites/local.dialogoit/src/sites/all/modules/custom/dti_forms/inc/header-form.es.html",
+		"/Users/luciano/Sites/local.dialogoit/src/sites/all/modules/custom/dti_forms/check.js",
+		"/Users/luciano/Sites/local.dialogoit/src/sites/all/themes/dialogoit/template.php",
+		"/Users/luciano/Sites/local.dialogoit/src/sites/all/modules/custom/dti_forms/dti_forms.module.1",
+		"/Users/luciano/Sites/local.dialogoit/src/sites/all/modules/custom/dti_forms/inc/soy-anonimo.es.html",
+		"/Users/luciano/Sites/local.dialogoit/src/sites/all/modules/custom/welcome_user/welcome_user.module",
+		"/Users/luciano/Sites/local.dialogoit/src/sites/all/modules/custom/dialogoit_redirect/dialogoit_redirect.module",
+		"/Users/luciano/Sites/local.dialogoit/src/sites/all/modules/custom/dti_forms/inc/terminos.pt-br.html",
+		"/Users/luciano/Sites/local.dialogoit/src/sites/all/modules/custom/dti_forms/inc/soy-registrado.pt-br.html",
+		"/Users/luciano/Sites/local.dialogoit/src/sites/all/modules/custom/dti_forms/inc/soy-anonimo.pt-br.html",
+		"/Users/luciano/Sites/local.dialogoit/src/sites/all/modules/custom/dti_forms/inc/soy-registrado.es.html",
+		"/Users/luciano/Sites/local.dialogoit/src/sites/all/modules/custom/dialogoit_points/dialogoit_points.module",
+		"/Users/luciano/Sites/local.dialogoit/src/sites/all/modules/custom/dialogoit_points/dialogoit_points.info",
+		"/Users/luciano/Sites/local.dialogoit/src/sites/all/modules/custom/dialogoit_resellers/dialogoit_resellers.module",
+		"/Users/luciano/Sites/local.dialogoit/src/sites/all/modules/custom/dti_forms/inc/help.es.html",
+		"/Users/luciano/Sites/local.dialogoit/src/sites/all/modules/custom/dti_forms/dti_forms.info",
+		"/Users/luciano/Sites/local.dialogoit/src/sites/all/modules/custom/dti_forms/dti_forms.css",
+		"/Users/luciano/Sites/local.dialogoit/src/sites/all/modules/custom/dti_tracking/dti_tracking.module",
+		"/Users/luciano/Sites/local.dialogoit/src/sites/all/modules/custom/dti_forms/inc/help.pt-br.html",
+		"/Users/luciano/Sites/local.dialogoit/src/sites/all/modules/custom/dti_forms/js/detect.js",
+		"/Users/luciano/Sites/local.dialogoit/src/sites/all/themes/dialogoit/templates/pcp-template.tpl.php",
+		"/Users/luciano/Sites/local.dialogoit/src/sites/all/modules/contrib/print/print.tpl.php",
+		"/Users/luciano/Sites/local.dialogoit/src/sites/all/modules/contrib/pcp/pcp.tokens.inc",
+		"/Users/luciano/Sites/local.dialogoit/src/sites/all/modules/contrib/pcp/pcp.module",
+		"/Users/luciano/Sites/local.dialogoit/src/sites/all/modules/contrib/pcp/pcp-template.tpl.php",
+		"/Users/luciano/Sites/local.dialogoit/src/sites/all/themes/zen/templates/maintenance-page.tpl.php",
+		"/Users/luciano/Sites/local.dialogoit/src/sites/all/modules/contrib/sco_node/sco_node.module",
+		"/Users/luciano/Sites/local.dialogoit/src/sites/all/modules/custom/dti_del_attemps/dti_del_attemps.module",
+		"/Users/luciano/Sites/local.dialogoit/src/sites/all/modules/contrib/sco_node/sco_node.views.inc",
+		"/Users/luciano/Sites/local.dialogoit/src/sites/all/modules/contrib/sco_node/sco_node_api.inc",
+		"/Users/luciano/Sites/local.dialogoit/src/sites/all/modules/custom/dti_del_attemps/dti_del_attemps.info",
+		"/Users/luciano/Sites/local.dialogoit/src/sites/all/modules/custom/ng_custom_register/ng_custom_register.module",
+		"/Users/luciano/Sites/local.dialogoit/src/sites/all/modules/custom/ng_scorm/tpl/show_old_certified.tpl.php",
+		"/Users/luciano/Sites/local.dialogoit/src/sites/all/themes/zen/templates/node--sco_node.tpl.php",
+		"/Users/luciano/Sites/local.dialogoit/src/sites/all/themes/zen/template.php",
+		"/Users/luciano/Sites/local.dialogoit/src/sites/all/modules/custom/ng_scorm/ng_scorm.module",
+		"/Users/luciano/Sites/local.dialogoit/src/sites/all/themes/dialogoit/css/fonts.css",
+		"/Users/luciano/Sites/local.dialogoit/src/sites/all/themes/zen/zen-internals/css/fonts.css",
+		"/Users/luciano/Sites/local.dialogoit/src/sites/all/modules/custom/dialogoit_fcondition/dialogoit_fcondition.info",
+		"/Users/luciano/Sites/local.dialogoit/src/sites/all/modules/custom/dialogoit_fcondition/dialogoit_fcondition.module",
+		"/Users/luciano/Sites/local.dialogoit/src/sites/all/modules/custom/dialogoit_ubicacion/dialogoit_ubicacion.info",
+		"/Users/luciano/Sites/local.dialogoit/src/sites/all/modules/contrib/print/print.tpl.php.lc",
+		"/Users/luciano/Sites/local.dialogoit/src/sites/all/modules/contrib/print/tests/print.tpl.php.lc",
+		"/Users/luciano/Sites/local.dialogoit/src/sites/all/themes/zen/zen-internals/css/styles.css",
+		"/Users/luciano/Sites/local.dialogoit/src/sites/all/themes/dialogoit/css/style.css",
+		"/Users/luciano/Sites/local.dialogoit/src/sites/all/themes/dialogoit/css/fonts/intelclear_en/stylesheet.css",
+		"/Users/luciano/Sites/local.dialogoit/etc/wrs/wrs2-int.html",
+		"/Users/luciano/Sites/local.dialogoit/etc/wrs/wrs2-home.html"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/luciano/Sites/local.pfs/src/wp-content/themes/wordpress-bootstrap",
+			"/Users/luciano/Sites/local.pfs/src",
+			"/Users/luciano/Sites/local.pfs/src/wp-content/themes/wordpress-bootstrap-master",
+			"/Users/luciano/Sites/local.pfs",
+			"/Users/luciano/Sites/local.pfs/src/wp-content/themes/wordpress-bootstrap-master",
+			"/Users/luciano/Sites/local.pfs/src",
+			"/Users/luciano/Sites/local.dialogoit/src/sites",
+			"/Users/luciano/Sites/local.dialogoit/src",
+			"/Users/luciano/Sites/local.dialogoit/src/sites/all/modules/contrib/pcp",
+			"/Users/luciano/Sites/local.dialogoit/src",
+			"/Users/luciano/Sites/local.dialogoit/src/sites/all/modules/contrib",
+			"/Users/luciano/Sites/local.dialogoit/src/sites/all/modules/custom",
+			"/Users/luciano/Sites/local.dialogoit/src/sites",
+			"/Users/luciano/Sites/local.dialogoit/src/sites/all/themes",
+			"/Users/luciano/Sites/local.dialogoit/src/sites/all/modules/contrib/pcp",
+			"/Users/luciano/Sites/local.dialogoit/src/sites",
+			"/Users/luciano/Sites/local.dialogoit/src/sites/all/themes/zen",
+			"/Users/luciano/Sites/local.dialogoit/src/sites/all/themes/dialogoit",
+			"/Users/luciano/Sites/local.dialogoit/src",
+			"/Users/luciano/Sites/local.dialogoit/src/sites/all",
+			"/Users/luciano/Sites/local.dialogoit/src",
+			"/Users/luciano/Sites/local.dialogoit/src/sites/all/modules/contrib/userpoints",
+			"/Users/luciano/Sites/local.dialogoit/src/sites/all/modules",
+			"/Users/luciano/Sites/local.dialogoit/src/sites/all/modules/custom",
+			"/Users/luciano/Sites/local.dialogoit/src/sites/all/modules/contrib/pcp",
+			"/Users/luciano/Sites/local.dialogoit/src/sites/all/modules",
+			"/Users/luciano/Sites/local.dialogoit/src/sites/all/modules/custom",
+			"/Users/luciano/Sites/local.dialogoit/src/sites/all",
+			"/Users/luciano/Sites/local.dialogoit/src",
+			"/Users/luciano/Sites/local.dialogoit/src/sites/all/modules/custom",
+			"/Users/luciano/Sites/local.dialogoit/src/sites/all/modules",
+			"/Users/luciano/Sites/local.dialogoit/src/sites/all/modules/custom",
+			"/Users/luciano/Sites/local.dialogoit/src/sites/all/themes/dialogoit",
+			"/Users/luciano/Sites/local.dialogoit/src/sites",
+			"/Users/luciano/Sites/local.dialogoit/src/sites/all/modules/contrib/rotating_banner",
+			"/Users/luciano/Sites/local.dialogoit/src/sites/all/themes/zen/templates",
+			"/Users/luciano/Sites/local.dialogoit/src/sites/all/modules/contrib/sco_node",
+			"/Users/luciano/Sites/local.dialogoit/src/sites",
+			"/Users/luciano/Sites/local.dialogoit/src",
+			"/Users/luciano/Sites/local.dialogoit/src/sites",
+			"/Users/luciano/Sites/local.dialogoit/src",
+			"/Users/luciano/Sites/local.dialogoit/src/sites",
+			"/Users/luciano/Sites/local.dialogoit/src/sites/all/modules",
+			"/Users/luciano/Sites/circularstudio-outland/src/sites/all/libraries/flexslider",
+			"/Users/luciano/Sites/circularstudio-outland/src/sites/all/themes/bootstrap",
+			"/Users/luciano/Sites/local.philia.consorcios/src/sites/all/themes",
+			"/Users/luciano/Sites/local.philia.consorcios/src",
+			"/Users/luciano/Sites/local.philia.consorcios/src/sites",
+			"/Users/luciano/Sites/local.philia.consorcios/src/sites/all/themes/open_framework",
+			"/Users/luciano/Sites/local.philia.consorcios/src/sites/all/modules/privatemsg",
+			"/Users/luciano/Sites/local.philia.consorcios/src/sites/all/themes/open_framework",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"2",
+			"submenu",
+			"sub",
+			"icon",
+			"all-project",
+			"project_cat",
+			"tx-project-cat-sidebar",
+			"20px",
+			"0.4",
+			"0.6",
+			"detail",
+			"<!-- Web Font Kievit -->",
+			"font",
+			"glyphicons",
+			"footer",
+			"page-header",
+			"pfs-project-grid-bw",
+			"imagetype",
+			"project",
+			"favicon",
+			"project",
+			"body_class(",
+			"body",
+			"home",
+			"png",
+			"370",
+			"wp_generate_attachment_metadata",
+			"carousel-project",
+			"2",
+			"tx",
+			"archive",
+			"3",
+			"wp_title",
+			"archive",
+			"footer",
+			"100",
+			"2.3",
+			"106",
+			"1.8",
+			"-190",
+			"100",
+			"7",
+			"237",
+			"0.6",
+			"234",
+			"400",
+			"600",
+			"library",
+			"Next",
+			"fsb-social-bar",
+			"page_navi(",
+			"project",
+			"0.6",
+			"award",
+			"foot",
+			"1.3",
+			"lead",
+			"news",
+			"searchform.php",
+			"id=\"search-3\"",
+			"placeholder=",
+			"placeholder=\"Search\"",
+			"search",
+			"190",
+			"2.3",
+			".2",
+			"2",
+			"7",
+			"6",
+			"1.8",
+			"100",
+			"7",
+			"1.7",
+			"50",
+			"3",
+			"1.1",
+			"200px",
+			"footer",
+			"text-red small",
+			";	",
+			"project-w",
+			"KievitOT",
+			"lighter",
+			"font",
+			"4",
+			"html",
+			"Person",
+			"People",
+			"Project Archive",
+			".'),\n",
+			"Project Archive",
+			"Projects Archive",
+			"8",
+			"styles.css.map",
+			"archive",
+			"div",
+			"collapsing",
+			"8",
+			"1",
+			"2",
+			"animation",
+			"NAME-YOUR-ANIMATION",
+			"home",
+			"project-title",
+			"font-size: 12px;\n	color: #000000;\n	width: 130px;\n	display: block;\n	float: left;",
+			"demo",
+			"5",
+			"upload_max_size",
+			"full",
+			"project here",
+			"pager",
+			"page",
+			"excerpt",
+			"	\n",
+			"wp_bootstrap_main_nav(",
+			"<header role=\"banner\">",
+			"get_header",
+			"get_header()",
+			"header",
+			"search",
+			"Project",
+			"Projects",
+			"project",
+			"Project",
+			"Award",
+			"Awards",
+			"award",
+			"Award"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"http://dialogoti.intel.com/sites/all/themes/dialogoit/css/fonts/intelclear_en/",
+			"http://dialogoti.intel.com/sites/all/themes/zen/zen-internals/css/fonts/intelclear_en/",
+			"Intel Clear",
+			"",
+			"Intel Clear",
+			"http://local.dialogoti/",
+			"305x366",
+			"http://placehold.it/305x172",
+			"../images/consorcios/"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 94.0
+	},
+	"output.git":
+	{
+		"height": 192.0
+	},
+	"replace":
+	{
+		"height": 69.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"fun",
+				"tmp/wordpress-bootstrap-master/functions.php"
+			],
+			[
+				"sco_node",
+				"sites/all/modules/contrib/sco_node/tpl/sco_node.tpl.php"
+			],
+			[
+				"pathauto.mo",
+				"sites/all/modules/contrib/pathauto/pathauto.module"
+			],
+			[
+				"priva",
+				"sites/all/modules/privatemsg/privatemsg.module"
+			],
+			[
+				"page.tpl",
+				"sites/all/themes/open_framework/templates/page.tpl.php"
+			],
+			[
+				"openf",
+				"sites/all/themes/open_framework/open_framework.info"
+			],
+			[
+				"",
+				".gitignore"
+			],
+			[
+				"related",
+				"src/sites/all/themes/open_framework-7.x-2.03/templates/node--material--related_content.tpl.php"
+			],
+			[
+				"deste",
+				"src/sites/all/modules/destefano/destefano.module"
+			],
+			[
+				"node--ma",
+				"src/sites/all/themes/open_framework-7.x-2.03/templates/node--material.tpl.php"
+			],
+			[
+				"social",
+				"src/sites/all/modules/socialmedia/socialmedia.module"
+			],
+			[
+				"widgets",
+				"src/sites/all/modules/widgets/widgets.module"
+			],
+			[
+				"opencss",
+				"src/modules/openid/openid.css"
+			],
+			[
+				"node-mater",
+				"src/sites/all/themes/open_framework-7.x-2.03/templates/node--material.tpl.php"
+			],
+			[
+				"node--mat",
+				"src/sites/all/themes/open_framework-7.x-2.03/templates/node--material.tpl.php"
+			],
+			[
+				"nodeidea",
+				"src/sites/all/themes/open_framework-7.x-2.03/templates/node--idea.tpl.php"
+			],
+			[
+				"customresp",
+				"src/sites/all/themes/open_framework-7.x-2.03/css/custom-resp-tablet-land.css"
+			],
+			[
+				"customcss",
+				"src/sites/all/themes/open_framework-7.x-2.03/css/custom-resp-mobile-land.css"
+			],
+			[
+				"customrespcss",
+				"src/sites/all/themes/open_framework-7.x-2.03/css/custom-resp-mobile-land.css"
+			],
+			[
+				"mobileport",
+				"src/sites/all/themes/open_framework-7.x-2.03/css/custom-resp-mobile-port.css"
+			],
+			[
+				"openfra",
+				"src/sites/all/themes/open_framework-7.x-2.03/open_framework.info"
+			],
+			[
+				"openpagetpl",
+				"src/sites/all/themes/open_framework-7.x-2.03/templates/page.tpl.php"
+			],
+			[
+				"openfram",
+				"src/sites/all/themes/open_framework-7.x-2.03/open_framework.info"
+			],
+			[
+				"destefano",
+				"src/sites/all/modules/destefano/destefano.module"
+			],
+			[
+				".git",
+				"src/.gitignore"
+			],
+			[
+				"sett",
+				"src/sites/default/settings.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"deco",
+				"/home/ffarias/htdocs/local.deco.website/local.deco.website.sublime-project"
+			],
+			[
+				"elbo",
+				"/home/ffarias/htdocs/local.elboyero.website/local.elboyero.website.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 296.0,
+	"status_bar_visible": true
+}
